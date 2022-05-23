@@ -19,3 +19,6 @@ Third level heading and stuff underneath it.
 - Aaaaaah
 
 ![lorem](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Test Image")
+
+Look at this: {{ site.description }}
+Look at that: {{ site.email }}
