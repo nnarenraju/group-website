@@ -5,7 +5,7 @@ Test Git Repo for Website Building
 
 Test Paragraph. ~~This is some text under the second level heading.~~ 
 
-[test_link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) "Cheat Sheet")
+[test_link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Cheat Sheet")
 
 ### Third Level Heading
 Third level heading and stuff underneath it.
