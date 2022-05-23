@@ -18,4 +18,4 @@ Third level heading an stuff underneath it.
 - More unordered stuff
 - Aaaaaah
 
-![lorem](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Test Image")
+![lorem](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Test Image")
