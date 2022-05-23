@@ -8,7 +8,7 @@ Test Paragraph. ˜˜This is some text under the second level heading.˜˜
 [test_link]([https://www.google.com](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) "Cheat Sheet")
 
 ### Third Level Heading
-Third level heading an stuff underneath it.
+Third level heading and stuff underneath it.
 
 1. Stuff
 2. More stuff
