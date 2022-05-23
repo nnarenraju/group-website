@@ -17,3 +17,5 @@ Third level heading an stuff underneath it.
 - Unordered stuff
 - More unordered stuff
 - Aaaaaah
+
+![lorem]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png) "Test Image")
