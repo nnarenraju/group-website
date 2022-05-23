@@ -3,7 +3,7 @@ Test Git Repo for Website Building
 
 ## Lorem Ipsum Dolor Sit Amet
 
-Test Paragraph. ˜˜This is some text under the second level heading.˜˜ 
+Test Paragraph. ~~This is some text under the second level heading.~~ 
 
 [test_link]([https://www.google.com](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) "Cheat Sheet")
 
